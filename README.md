@@ -1,9 +1,9 @@
 
 # Bitcoin Ticker
 
-A crypto currency price checking app whic allows us to monitor our bitcoin investments on the move!
+A crypto currency price checking app which allows us to monitor our bitcoin investments on the move!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App]
 
 ## This simple app shows
 
